@@ -1,5 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=krypciak)  
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krypciak&theme=github_dark)
 
 <table>
   <tr>
@@ -12,4 +11,4 @@
   </tr>
 </table>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krypciak&theme=github_dark)
+![Profile views](https://komarev.com/ghpvc/?username=krypciak)  
